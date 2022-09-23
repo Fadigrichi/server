@@ -1,0 +1,24 @@
+{
+"invites":
+[
+  {
+    "firstname":"ali",
+     "lasrname":"grichi",
+      "age":"22",
+    "country":"tunis"
+  },
+  {
+    "firstname":"ali",
+     "lasrname":"yaakoubi",
+      "age":"25",
+    "country":"wislatia"
+  },
+  {
+    "firstname":"sondess",
+    "lasrname":"hoobi",
+     "age":"22",
+   "country":"debai"
+  }
+]
+
+}
